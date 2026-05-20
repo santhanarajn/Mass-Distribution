@@ -1,4 +1,4 @@
-"""Program for Dynamical Cluster-decay Model (DCM)"""
+"""Program for calculating fission yield using QMFT"""
 
 import pandas as pd
 import numpy as np
